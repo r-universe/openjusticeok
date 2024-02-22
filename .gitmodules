@@ -8,6 +8,10 @@
 [submodule "ojoregex"]
 	path = ojoregex
 	url = https://github.com/openjusticeok/ojoregex
+[submodule "ojoslackr"]
+	path = ojoslackr
+	url = https://github.com/openjusticeok/ojoslackr
+	registered = false
 [submodule "ojoutils"]
 	path = ojoutils
 	url = https://github.com/openjusticeok/ojoutils

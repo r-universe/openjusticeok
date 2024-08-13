@@ -2,6 +2,12 @@
   {
     "package": "ojodb",
     "url": "https://github.com/openjusticeok/ojodb",
+    "via": ["ojoregex"],
+    "from": "ojoregex"
+  },
+  {
+    "package": "ojodb",
+    "url": "https://github.com/openjusticeok/ojodb",
     "via": ["ojoverse"],
     "from": "ojoverse"
   },

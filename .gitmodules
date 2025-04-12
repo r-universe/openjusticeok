@@ -5,6 +5,12 @@
 [submodule "ojodb"]
 	path = ojodb
 	url = https://github.com/openjusticeok/ojodb
+[submodule "ojoregex"]
+	path = ojoregex
+	url = https://github.com/openjusticeok/ojoregex
 [submodule "ojoutils"]
 	path = ojoutils
 	url = https://github.com/openjusticeok/ojoutils
+[submodule "ojoverse"]
+	path = ojoverse
+	url = https://github.com/openjusticeok/ojoverse

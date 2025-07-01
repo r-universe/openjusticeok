@@ -1,5 +1,11 @@
 [
   {
+    "package": "httpgd",
+    "url": "https://github.com/nx10/httpgd",
+    "via": ["ojodb"],
+    "from": "ojodb"
+  },
+  {
     "package": "ojodb",
     "url": "https://github.com/openjusticeok/ojodb",
     "via": ["ojoregex"],

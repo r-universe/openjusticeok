@@ -6,6 +6,12 @@
     "from": "ojodb"
   },
   {
+    "package": "httpgd",
+    "url": "https://github.com/nx10/httpgd",
+    "via": ["ojoregex", "ojodb"],
+    "from": "ojoregex"
+  },
+  {
     "package": "ojodb",
     "url": "https://github.com/openjusticeok/ojodb",
     "via": ["ojoregex"],

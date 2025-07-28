@@ -15,6 +15,9 @@
 [submodule "ojoslackr"]
 	path = ojoslackr
 	url = https://github.com/openjusticeok/ojoslackr
+[submodule "ojothemes"]
+	path = ojothemes
+	url = https://github.com/openjusticeok/ojothemes
 [submodule "ojoutils"]
 	path = ojoutils
 	url = https://github.com/openjusticeok/ojoutils
